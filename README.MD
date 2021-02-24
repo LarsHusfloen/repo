@@ -1,4 +1,4 @@
-[![AWESOME README LOGO]]()
+# FANTASTIC README LOGO
 
 
 ## 🤔 Why This Awesome README File?
