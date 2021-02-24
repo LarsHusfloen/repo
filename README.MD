@@ -33,9 +33,11 @@ repository. So for the most part it will contain different problems og tasks giv
 
 </details>
 
-#### Resterende filer
+#### Misc
 
 <details>
- <summary>Tekst filer</summary>
+ <summary>Resterende filer</summary>
+
+#### Tekst filer
 
 - Test.txt
