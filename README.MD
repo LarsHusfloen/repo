@@ -11,14 +11,19 @@ repository. So for the most part it will contain different problems og tasks giv
 
 ## 📚 Table of Contents
 
-### 📃 Files
+### 📃 Filer
 
 <details>
 <summary>View files</summary>
 
 <details>
 <summary>Java Code</summary>
+
 - PrintName.java
 - PrintName.class
+</details>
+
+<details>
+ <summary>Tekst filer</summary>
 
 - Test.txt
