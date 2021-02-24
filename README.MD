@@ -23,13 +23,13 @@ repository. So for the most part it will contain different problems og tasks giv
 
 ##### Printe navn
 
-- PrintName.java
-- PrintName.class
+- [PrintName.java](https://github.com/LarsHusfloen/repo/blob/main/Java%20code/PrintName.java)
+- [PrintName.class](https://github.com/LarsHusfloen/repo/blob/main/Java%20code/PrintName.class)
 
 #### Printe om været
 
-- [BrightDay.java] ()
-- [BrightDay.class] (https://github.com/LarsHusfloen/repo/blob/main/Java%20code/BrightDay.class)
+- [BrightDay.java](https://github.com/LarsHusfloen/repo/blob/main/Java%20code/BrightDay.java)
+- [BrightDay.class](https://github.com/LarsHusfloen/repo/blob/main/Java%20code/BrightDay.class)
 
 </details>
 
