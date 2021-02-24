@@ -29,7 +29,7 @@ repository. So for the most part it will contain different problems og tasks giv
 #### Printe om været
 
 - [BrightDay.java] ()
-- [BrightDay.class] ()
+- [BrightDay.class] (https://github.com/LarsHusfloen/repo/blob/main/Java%20code/BrightDay.class)
 
 </details>
 
