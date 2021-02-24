@@ -16,12 +16,18 @@ repository. So for the most part it will contain different problems og tasks giv
 <details>
 <summary>View files</summary>
 
+#### Java prosjekter
+
 <details>
 <summary>Java Code</summary>
+
+##### Printe navn
 
 - PrintName.java
 - PrintName.class
 </details>
+
+#### Resterende filer
 
 <details>
  <summary>Tekst filer</summary>
