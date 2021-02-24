@@ -25,6 +25,12 @@ repository. So for the most part it will contain different problems og tasks giv
 
 - PrintName.java
 - PrintName.class
+
+#### Printe om været
+
+- [BrightDay.java] ()
+- [BrightDay.class] ()
+
 </details>
 
 #### Resterende filer
