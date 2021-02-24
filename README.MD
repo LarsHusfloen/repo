@@ -1,14 +1,9 @@
-[![AWESOME CHEATSHEETS LOGO](_design/cover_github@2x.png)](https://lecoupa.github.io/awesome-cheatsheets/)
+[![AWESOME README LOGO]]
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/LICENSE)
 
-**WEBSITE DIRECTORY**: [Available here](https://lecoupa.github.io/awesome-cheatsheets/).
+## 🤔 Why This Awesome README File?
 
-> 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-
-## 🤔 Why Awesome-Cheatsheets?
-
-I usually make a cheat sheet when I want to improve my skills in a programming language, a framework or a development tool. [I started doing these kinds of things a long time ago on Gist](https://gist.github.com/LeCoupa). To better keep track of the history and to let people contribute, I reorganized all of them into this single repository. Most of the content is coming from official documentation and some books I have read.
+This is naturally only because i want to impress everyone who are seeing this for starters. I usually don't make such a big deal out of a small task. Check me out on [facebook](https://www.youtube.com/watch?v=dQw4w9WgXcQ) or [instagram](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to get to know me better.
 
 Feel free to take a look. You might learn new things. They have been designed to provide a quick way to assess your knowledge and to save you time.
 
