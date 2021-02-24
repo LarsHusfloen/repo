@@ -1,3 +1,3 @@
-#README
+README
 
 Dette er mitt første prosjekt!
