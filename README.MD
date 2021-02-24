@@ -16,6 +16,9 @@ repository. So for the most part it will contain different problems og tasks giv
 <details>
 <summary>View files</summary>
 
-
+<details>
+<summary>Java Code</summary>
 - PrintName.java
+- PrintName.class
+
 - Test.txt
