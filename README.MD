@@ -13,9 +13,6 @@ repository. So for the most part it will contain different problems og tasks giv
 
 ### 📃 Filer
 
-<details>
-<summary>View files</summary>
-
 #### Java prosjekter
 
 <details>
@@ -43,7 +40,6 @@ repository. So for the most part it will contain different problems og tasks giv
 
 - Test.txt
 
-</details>
 </details>
 
 ### Licence
