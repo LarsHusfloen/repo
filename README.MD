@@ -33,6 +33,8 @@ repository. So for the most part it will contain different problems og tasks giv
 
 </details>
 
+
+
 #### Misc
 
 <details>
@@ -41,3 +43,7 @@ repository. So for the most part it will contain different problems og tasks giv
 #### Tekst filer
 
 - Test.txt
+
+### Licenses
+
+- [Licences](https://github.com/LarsHusfloen/repo/blob/main/LICENSE)
