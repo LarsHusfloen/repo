@@ -44,7 +44,8 @@ repository. So for the most part it will contain different problems og tasks giv
 - Test.txt
 
 </details>
+</details>
 
-### Licenses
+### Licence
 
 - [Licences](https://github.com/LarsHusfloen/repo/blob/main/LICENSE)
