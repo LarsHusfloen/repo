@@ -49,3 +49,5 @@ repository. So for the most part it will contain different problems og tasks giv
 ### Licence
 
 - [Licences](https://github.com/LarsHusfloen/repo/blob/main/LICENSE)
+
+[Back to Top](#fantastic-readme-file)
